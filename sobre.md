@@ -13,7 +13,7 @@ meta:
   _edit_last: '2'
   _wp_page_template: default
 author:
-permalink: "/sobre/"
+permalink: "/sobre"
 ---
  **MuSA** ( **Mu**ltimídia, **S**istemas e **A**rtes) é um coletivo de experimentalistas em tecnologias de software e hardware livre. Um laboratório de computação criativa iniciado dentro da Universidade do Estado de Santa Catarina pelo prof. Vilson Vieira e os acadêmicos Alan Fachini, Dino Magri, Oriel Frigo e Gabriela Salvador Thumé no ano de 2008.
 

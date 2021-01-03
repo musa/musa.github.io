@@ -12,7 +12,7 @@ tags: []
 meta:
   _edit_last: '1'
 author:
-permalink: "/pressrelease/"
+permalink: "/pressrelease"
 ---
 
 # FISL 11

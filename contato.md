@@ -13,7 +13,7 @@ meta:
   _edit_last: '2'
   _wp_page_template: default
 author:
-permalink: "/contato/"
+permalink: "/contato"
 ---
 O grupo se comunica através da sua [lista de discussão](https://musa.cc/cgi-bin/mailman/listinfo/geral). A melhor maneira de começar a participar é assinando a lista. Basta se apresentar e começar a contribuir! Esse é um espaço voltado para a troca de conhecimentos e informações. Dúvidas, necessidade de ajuda, podem ser enviadas para essa lista, onde o pessoal poderá discutir a colaborar com a solução dos problemas propostos.
 

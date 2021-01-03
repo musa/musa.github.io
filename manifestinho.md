@@ -13,7 +13,7 @@ meta:
   _edit_last: '2'
   _wp_page_template: default
 author:
-permalink: "/manifestinho/"
+permalink: "/manifestinho"
 ---
 [Em PDF](/assets/pdfs/musa-manifestinho.pdf).
 

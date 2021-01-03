@@ -13,7 +13,7 @@ meta:
   _edit_last: '2'
   _wp_page_template: default
 author:
-permalink: "/oficina-de-arte-e-tecnologia/"
+permalink: "/oficina-de-arte-e-tecnologia"
 ---
 [![Oficina de Arte e Tecnologia](/assets/images/2010/03/cartaz_extensao-724x1024.jpg "Oficina de Arte e Tecnologia")](/assets/images/2010/03/cartaz_extensao-724x1024.jpg)
 
